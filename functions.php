@@ -30,4 +30,6 @@ register_sidebar( array(
 		'after_title' => '</h2>',
 	) );
 
+require_once('link-list-widget.php');
+
 ?>
