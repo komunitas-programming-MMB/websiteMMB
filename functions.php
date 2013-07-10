@@ -36,7 +36,7 @@ require_once('link-list-widget.php');
 require 'theme-updates/theme-update-checker.php';
 $mmb_theme_update_checker = new ThemeUpdateChecker(
 	'mmb-theme',
-	'https://github.com/komunitas-programming-MMB/websiteMMB/info.json'
+	'https://raw.github.com/komunitas-programming-MMB/websiteMMB/master/info.json'
 	);
 
 ?>
