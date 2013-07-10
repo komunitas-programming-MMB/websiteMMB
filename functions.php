@@ -32,4 +32,11 @@ register_sidebar( array(
 
 require_once('link-list-widget.php');
 
+// initialize the update checker
+require 'theme-updates/theme-update-checker.php';
+$mmb_theme_update_checker = new ThemeUpdateChecker(
+	'mmb-theme',
+	'https://github.com/komunitas-programming-MMB/websiteMMB/info.json'
+	);
+
 ?>
