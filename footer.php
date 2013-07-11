@@ -16,7 +16,7 @@
   <div id="footer">
       	<p>
 		Politeknik Elektronika Negeri Surabaya. Kampus ITS Sukolilo, Surabaya 60111, INDONESIA. Tel: +6231 594 7280; Fax: +6231 594 6114<br />
-		&copy; 2011 Jurusan Teknologi Multimedia Broadcasting. Website didesain dan dikembangkan oleh Tim Web MMB	
+		&copy; 2011 Jurusan Teknologi Multimedia Broadcasting. Website didesain dan dikembangkan oleh Tim Web MMB dari komunitas programming
 	</p> 
     
 </div>
