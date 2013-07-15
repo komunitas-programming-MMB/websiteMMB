@@ -135,7 +135,6 @@
 </head>
 <body>
 
-  <h1> HOHO </h1>
   <div id="header">
   <div class="container">
     <div id="logo">
